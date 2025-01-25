@@ -1,0 +1,3663 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3005"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1036351,
+          441199.65599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 1,
+        "NAME" : "Ucluelet",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 1824,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 1,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1008983.125,
+          455516.90599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 2,
+        "NAME" : "Tofino",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 1540,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 2,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1024338.125,
+          1028831
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 3,
+        "NAME" : "Burns Lake",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1892,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 3,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1281937.875,
+          642687.56299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 4,
+        "NAME" : "Lillooet",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2987,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 4,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1321152.75,
+          587486.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 5,
+        "NAME" : "Lytton",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 318,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 5,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1369377.875,
+          581086.81299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 6,
+        "NAME" : "Merritt",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 8075,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 6,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1700563.25,
+          670213.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 7,
+        "NAME" : "Invermere",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2952,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 7,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          795937.75,
+          1142748.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 8,
+        "NAME" : "New Aiyansh",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 800,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 8,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1340857.5,
+          641363.68799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 9,
+        "NAME" : "Ashcroft",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1995,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 9,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1335887.875,
+          655315
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 10,
+        "NAME" : "Cache Creek",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1114,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 10,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1798382,
+          584774.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 11,
+        "NAME" : "Sparwood",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 4167,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 11,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          963378.81299999915,
+          1039407.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 12,
+        "NAME" : "Houston",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 4206,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 12,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1074477.5,
+          1005440.8129999992
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 13,
+        "NAME" : "Fraser Lake",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1328,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 13,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1190712.5,
+          1540146.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 14,
+        "NAME" : "Fort Nelson",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 4732,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 14,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          754773.25,
+          1229335.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 15,
+        "NAME" : "Stewart",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 700,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 15,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1181447.625,
+          1149597.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 16,
+        "NAME" : "Mackenzie",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 6275,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 16,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          894668.06299999915,
+          1141166.25
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 17,
+        "NAME" : "Hazelton",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 359,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 17,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          925316.5,
+          1087321.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 18,
+        "NAME" : "Smithers",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 6139,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 18,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          831458,
+          1060275.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 19,
+        "NAME" : "Terrace",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 13871,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 19,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          722636.31299999915,
+          1038323.625
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 20,
+        "NAME" : "Prince Rupert",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 17027,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 20,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          827274.25,
+          1006571.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 21,
+        "NAME" : "Kitimat",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 11533,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 21,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1112218.625,
+          1051346
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 22,
+        "NAME" : "Fort St. James",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2130,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 22,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1130149.625,
+          1003046.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 23,
+        "NAME" : "Vanderhoof",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 4830,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 23,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1215604.125,
+          994614.25
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 24,
+        "NAME" : "Prince George",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 81326,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 24,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1274027.625,
+          1197304.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 25,
+        "NAME" : "Chetwynd",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 3005,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 25,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1319359.125,
+          1261184.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 26,
+        "NAME" : "Fort St. John",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 16842,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 26,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1361165.375,
+          1210522.75
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 27,
+        "NAME" : "Dawson Creek",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 11715,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 27,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1314319.875,
+          1137163.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 28,
+        "NAME" : "Tumbler Ridge",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2331,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 28,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1387568.625,
+          937334.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 29,
+        "NAME" : "McBride",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 769,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 29,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1235383.625,
+          891648.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 30,
+        "NAME" : "Quesnel",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 10794,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 30,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1263494.875,
+          797736.56299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 31,
+        "NAME" : "Williams Lake",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 12101,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 31,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1324790.75,
+          747434.31299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 32,
+        "NAME" : "100 Mile House",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2041,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 32,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1627214,
+          739146.56299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 33,
+        "NAME" : "Golden",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 4253,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 33,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1546498.5,
+          694413.625
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 34,
+        "NAME" : "Revelstoke",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 8213,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 34,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1473732.125,
+          654142.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 35,
+        "NAME" : "Salmon Arm",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 16322,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 35,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1397851.625,
+          642633.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 36,
+        "NAME" : "Kamloops",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 82832,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 36,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1478844.375,
+          605587.75
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 37,
+        "NAME" : "Vernon",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 34678,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 37,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1470928.125,
+          562259.5
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 38,
+        "NAME" : "Kelowna",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 100433,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 38,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1456426.5,
+          531283.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 39,
+        "NAME" : "Summerland",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 10830,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 39,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1464331.5,
+          518489.65599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 40,
+        "NAME" : "Penticton",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 32542,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 40,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1398226.125,
+          509420.59400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 41,
+        "NAME" : "Princeton",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 2943,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 41,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1629554.75,
+          535555.43799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 42,
+        "NAME" : "Nelson",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 9677,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 42,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1605802.875,
+          512397.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 43,
+        "NAME" : "Castlegar",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 7427,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 43,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1691089.875,
+          500872.71900000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 44,
+        "NAME" : "Creston",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 5161,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 44,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1604563.875,
+          489116.84400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 45,
+        "NAME" : "Trail",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 7728,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 45,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1720564.25,
+          568719.93799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 46,
+        "NAME" : "Kimberley",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 6976,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 46,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1740088.875,
+          553257.68799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 47,
+        "NAME" : "Cranbrook",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 19874,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 47,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1789736.125,
+          559290.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 48,
+        "NAME" : "Fernie",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 5272,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 48,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1790964.875,
+          637044.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 49,
+        "NAME" : "Elkford",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2866,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 49,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1552994.375,
+          474940.34400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 50,
+        "NAME" : "Grand Forks",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 4297,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 50,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1477628.5,
+          468338.68799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 51,
+        "NAME" : "Osoyoos",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 4379,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 51,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1331330.375,
+          495251.15599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 52,
+        "NAME" : "Hope",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 6825,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 52,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1279162,
+          456226.78099999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 54,
+        "NAME" : "Abbotsford",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 115126,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 53,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1249824.25,
+          460260.43799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 55,
+        "NAME" : "Langley (District)",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 24287,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 54,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1244229.5,
+          460036.65599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 56,
+        "NAME" : "Langley (City)",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 24287,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 55,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1233372.5,
+          463621.21900000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 57,
+        "NAME" : "Surrey",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 340094,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 56,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1233990.875,
+          450637.34400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 58,
+        "NAME" : "White Rock",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 17371,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 57,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1217710,
+          457463.03099999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 59,
+        "NAME" : "Delta",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 101433,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 58,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1211499.75,
+          465911.21900000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 60,
+        "NAME" : "Richmond",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 165133,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 59,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1225039.25,
+          470051.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 61,
+        "NAME" : "New Westminster",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 54904,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 60,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1212842.5,
+          482583.81299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 62,
+        "NAME" : "North Vancouver (City)",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 44944,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 61,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1217430.25,
+          481464.84400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 63,
+        "NAME" : "North Vancouver (District)",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 44944,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 62,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1210166.875,
+          476699.28099999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 64,
+        "NAME" : "Vancouver",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 565905,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 63,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1205822.375,
+          523067.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 65,
+        "NAME" : "Squamish",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 15357,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 64,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1207576.875,
+          565458.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 66,
+        "NAME" : "Whistler",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 9683,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 65,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1123190,
+          479675.15599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 67,
+        "NAME" : "Parksville",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 10613,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 66,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1150015,
+          463739
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 68,
+        "NAME" : "Nanaimo",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 76645,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 67,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1168893.875,
+          420642.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 69,
+        "NAME" : "Duncan",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 4766,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 68,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1191384.25,
+          407381.15599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 70,
+        "NAME" : "Sidney",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 11105,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 69,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1195732.75,
+          382754.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 71,
+        "NAME" : "Victoria",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 74996,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 70,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1086832.25,
+          471208.06299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 72,
+        "NAME" : "Port Alberni",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 19329,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 71,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1105265.125,
+          540093.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 73,
+        "NAME" : "Powell River",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 13837,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 72,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1072308.25,
+          520002.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 74,
+        "NAME" : "Courtenay",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 19803,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 73,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1052950.25,
+          557704.43799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 75,
+        "NAME" : "Campbell River",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 31253,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 74,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          922707.25,
+          619606
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 76,
+        "NAME" : "Port McNeill",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 3081,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 75,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          902139.125,
+          631430.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 77,
+        "NAME" : "Port Hardy",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 5228,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 76,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          857061.93799999915,
+          794821.93799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 78,
+        "NAME" : "Bella Bella",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 1200,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 77,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          948834.875,
+          818810.125
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 79,
+        "NAME" : "Bella Coola",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 1104,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 78,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          601018,
+          1018978.3129999992
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 80,
+        "NAME" : "Masset",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1266,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 79,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1205289.5,
+          483758.71900000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 81,
+        "NAME" : "West Vancouver",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 42449,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 80,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1247698.25,
+          473072.59400000051
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 82,
+        "NAME" : "Maple Ridge",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 63138,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 81,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1268958.625,
+          466918.28099999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 83,
+        "NAME" : "Mission",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 32931,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 82,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1241264.25,
+          473632.06299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 84,
+        "NAME" : "Pitt Meadows",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 14850,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 83,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1236005.125,
+          476541.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 85,
+        "NAME" : "Port Coquitlam",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 51423,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 84,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1231753,
+          474639.15599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 86,
+        "NAME" : "Coquitlam",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 112278,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 85,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1230578.125,
+          478947.15599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 87,
+        "NAME" : "Port Moody",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 23819,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 86,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1166237.625,
+          494500.78099999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 88,
+        "NAME" : "Sechelt",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 8499,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 87,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          963807.31299999915,
+          818374.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 89,
+        "NAME" : "Hagensborg",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 605,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 88,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1310482.375,
+          824677.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 90,
+        "NAME" : "Horsefly",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 850,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 89,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1184418.75,
+          788659.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 91,
+        "NAME" : "Alexis Creek",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 300,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 90,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1411333.375,
+          754441.93799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 92,
+        "NAME" : "Clearwater",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 4960,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 91,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          595521.31299999915,
+          933632.43799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 93,
+        "NAME" : "Village of Daajing Giids",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 950,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 92,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1651754.625,
+          552740
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 94,
+        "NAME" : "Balfour",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 240,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 93,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          563199.81299999915,
+          1643181.25
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 95,
+        "NAME" : "Atlin",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 400,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 94,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1640425.625,
+          620505.18799999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 96,
+        "NAME" : "Meadow Creek",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 300,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 95,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          764981,
+          1500451.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700110",
+        "BCMJ_TAG" : 97,
+        "NAME" : "Dease Lake",
+        "CITY_TYPE" : "U",
+        "LONG_TYPE" : "VILLAGE (UNCHARTERED)",
+        "POP_2000" : 700,
+        "POP_SOURCE" : "OTHER",
+        "OBJECTID" : 96,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1699121,
+          672294
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 98,
+        "NAME" : "Radium Hot Springs",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 651,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 97,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1634709,
+          502972
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 99,
+        "NAME" : "Salmo",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1253,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 98,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1613342,
+          564820
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 100,
+        "NAME" : "Slocan",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 337,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 99,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1651130,
+          585647
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 101,
+        "NAME" : "Kaslo",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1097,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 100,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1618715,
+          586365
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 102,
+        "NAME" : "Silverton",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 250,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 101,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1616953,
+          590272
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 103,
+        "NAME" : "New Denver",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 600,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 102,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1582440,
+          615374
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 104,
+        "NAME" : "Nakusp",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1786,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 103,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1616207,
+          491729
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 105,
+        "NAME" : "Fruitvale",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 2165,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 104,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1613742,
+          487782
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 106,
+        "NAME" : "Montrose",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1153,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 105,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1602167,
+          488308
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 107,
+        "NAME" : "Warfield",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1795,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 106,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1594720,
+          490714
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 108,
+        "NAME" : "Rossland",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 3825,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 107,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1526644,
+          470424
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 109,
+        "NAME" : "Midway",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 682,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 108,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1534466,
+          480755
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 110,
+        "NAME" : "Greenwood",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 758,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 109,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1449879,
+          485123
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 111,
+        "NAME" : "Keremeos",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1178,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 110,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1470153,
+          484655
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 112,
+        "NAME" : "Oliver",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 4359,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 111,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1307023,
+          484628
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 113,
+        "NAME" : "Harrison Hot Springs",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1116,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 112,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1303583,
+          483597
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 114,
+        "NAME" : "Kent",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 5506,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 113,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1221196,
+          474747
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 115,
+        "NAME" : "Burnaby",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 192389,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 114,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1224503,
+          484028
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 116,
+        "NAME" : "Belcarra",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 712,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 115,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1229427,
+          483010
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 117,
+        "NAME" : "Anmore",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1306,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 116,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1200621,
+          497673
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 118,
+        "NAME" : "Lions Bay",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1498,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 117,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1188944,
+          407984
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 119,
+        "NAME" : "North Saanich",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 10931,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 118,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1190593,
+          399553
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 120,
+        "NAME" : "Central Saanich",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 15553,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 119,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1193357,
+          390317
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 121,
+        "NAME" : "Saanich",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 106814,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 120,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1199479,
+          383807
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 122,
+        "NAME" : "Oak Bay",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 17664,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 121,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1191994,
+          383322
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 123,
+        "NAME" : "Esquimalt",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 16400,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 122,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1186448,
+          382349
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 124,
+        "NAME" : "Colwood",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 14655,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 123,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1180498,
+          376722
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 125,
+        "NAME" : "Metchosin",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 5087,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 124,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1185490,
+          384957
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 126,
+        "NAME" : "Langford",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 20059,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 125,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1188083,
+          387337
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 127,
+        "NAME" : "View Royal",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 7587,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 126,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1184801,
+          392105
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 128,
+        "NAME" : "Highlands",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 1649,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 127,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1169553,
+          427725
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 129,
+        "NAME" : "North Cowichan",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 27612,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 128,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1143481,
+          424910
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 130,
+        "NAME" : "Lake Cowichan",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 3086,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 129,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1160121,
+          443481
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 131,
+        "NAME" : "Ladysmith",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 6963,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 130,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1114027,
+          482798
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 132,
+        "NAME" : "Qualicum Beach",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 7477,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 131,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1078517,
+          520315
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 133,
+        "NAME" : "Comox",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 12252,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 132,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1070914,
+          512418
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 134,
+        "NAME" : "Cumberland",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 2718,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 133,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          994339,
+          524984
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 135,
+        "NAME" : "Gold River",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1786,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 134,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          938853,
+          552753
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 136,
+        "NAME" : "Zeballos",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 274,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 135,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          953344,
+          545744
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 137,
+        "NAME" : "Tahsis",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 896,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 136,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1003562,
+          595501
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 138,
+        "NAME" : "Sayward",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 432,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 137,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1180681,
+          490435
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR31250000",
+        "BCMJ_TAG" : 139,
+        "NAME" : "Gibsons",
+        "CITY_TYPE" : "T",
+        "LONG_TYPE" : "TOWN",
+        "POP_2000" : 3895,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 138,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1228241,
+          594467
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 140,
+        "NAME" : "Pemberton",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1657,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 139,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1308515,
+          684837
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 141,
+        "NAME" : "Clinton",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 718,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 140,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1352367,
+          620141
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 142,
+        "NAME" : "Logan Lake",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 2505,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 141,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1443628,
+          664851
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 143,
+        "NAME" : "Chase",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 2602,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 142,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1469860,
+          584150
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 144,
+        "NAME" : "Lake Country",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 9366,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 143,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1450425,
+          548621
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 145,
+        "NAME" : "Peachland",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 4869,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 144,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1500283,
+          606259
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 146,
+        "NAME" : "Lumby",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1796,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 145,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1485589,
+          602191
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 147,
+        "NAME" : "Coldstream",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 9660,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 146,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1476796,
+          626540
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 148,
+        "NAME" : "Spallumcheen",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 5737,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 147,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1482184,
+          626452
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 149,
+        "NAME" : "Armstrong",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 4257,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 148,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1484863,
+          639045
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 150,
+        "NAME" : "Enderby",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 2920,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 149,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1493688,
+          671545
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 151,
+        "NAME" : "Sicamous",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 3145,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 150,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          935091,
+          618996
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 152,
+        "NAME" : "Alert Bay",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 556,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 151,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          895097,
+          601417
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 153,
+        "NAME" : "Port Alice",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1248,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 152,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          732355,
+          1031547
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 154,
+        "NAME" : "Port Edward",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 761,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 153,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          592512,
+          980219
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 155,
+        "NAME" : "Port Clements",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 567,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 154,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          898875,
+          1138847
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 156,
+        "NAME" : "New Hazelton",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 865,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 155,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          985992,
+          1106741
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 157,
+        "NAME" : "Granisle",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 433,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 156,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          932134,
+          1076556
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 158,
+        "NAME" : "Telkwa",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1417,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 157,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1452336,
+          890538
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 159,
+        "NAME" : "Valemount",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 1356,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 158,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1367534,
+          1206750
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR32700000",
+        "BCMJ_TAG" : 160,
+        "NAME" : "Pouce Coupe",
+        "CITY_TYPE" : "VL",
+        "LONG_TYPE" : "VILLAGE",
+        "POP_2000" : 912,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 159,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1248469,
+          1232396
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 161,
+        "NAME" : "Hudson's Hope",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 1134,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 160,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1329702,
+          1252807
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 162,
+        "NAME" : "Taylor",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 1258,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 161,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1168880.5,
+          375965.90599999949
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 163,
+        "NAME" : "Sooke",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 9662,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 162,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1191304.875,
+          488780.875
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 164,
+        "NAME" : "Bowen Island",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 3167,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 163,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1295710.625,
+          909055.375
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR08750000",
+        "BCMJ_TAG" : 165,
+        "NAME" : "Wells",
+        "CITY_TYPE" : "DM",
+        "LONG_TYPE" : "DISTRICT MUNICIPALITY",
+        "POP_2000" : 265,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 164,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1163732.375,
+          498485.06299999915
+        ]
+      },
+      "properties" : {
+        "FCODE" : "XX00000000",
+        "BCMJ_TAG" : 166,
+        "NAME" : "Sechelt Ind Gov Dist",
+        "CITY_TYPE" : "IGD",
+        "LONG_TYPE" : "INDIAN GOVERNMENT DISTRICT",
+        "POP_2000" : 884,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 165,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1295078.5,
+          467199.625
+        ]
+      },
+      "properties" : {
+        "FCODE" : "AR05500000",
+        "BCMJ_TAG" : 53,
+        "NAME" : "Chilliwack",
+        "CITY_TYPE" : "C",
+        "LONG_TYPE" : "CITY",
+        "POP_2000" : 65421,
+        "POP_SOURCE" : "BCSTATS",
+        "OBJECTID" : 166,
+        "SE_ANNO_CAD_DATA" : null
+      }
+    }
+  ]
+}
